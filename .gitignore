@@ -1,0 +1,13 @@
+#Vim:
+*.*~
+
+#Python:
+*.py[cod]
+dist
+build
+
+#Windows:
+Desktop.ini
+
+#My configurations:
+db.ini
